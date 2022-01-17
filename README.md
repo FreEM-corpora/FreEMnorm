@@ -11,7 +11,7 @@ For more information about FreEM corpora, cf. our [website](https://freem-corpor
 
 ## Corpus
 
-The corpus is available in the [corpus_tsv folder](https://github.com/FreEM-corpora/FreEMnorm/tree/master/corpus).
+The corpus is available in the [corpus folder](https://github.com/FreEM-corpora/FreEMnorm/tree/master/corpus).
 
 A detailed list of the content is available [here](https://github.com/FreEM-corpora/FreEMnorm/blob/master/TableOfContent.tsv).
 
