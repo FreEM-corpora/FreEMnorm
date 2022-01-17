@@ -11,9 +11,9 @@ For more information about FreEM corpora, cf. our [website](https://freem-corpor
 
 ## Corpus
 
-The corpus is available in the [corpus_tsv folder](https://github.com/freem-corpora/FreEMnorm/tree/master/corpus_tsv).
+The corpus is available in the [corpus_tsv folder](https://github.com/FreEM-corpora/FreEMnorm/tree/master/corpus).
 
-A detailed list of the content is available [here](https://github.com/freem-corpora/FreEMnorm/blob/master/TableOfContent.tsv).
+A detailed list of the content is available [here](https://github.com/FreEM-corpora/FreEMnorm/blob/master/TableOfContent.tsv).
 
 ## Transcriptions
 Transcripts are almost diplomatic. Long *ſ* is maintained ( *plaiſir* and not *plaisir*).
@@ -29,7 +29,24 @@ If you want to contribute, you can do so by cloning the repository and sending u
 Additional data and corrections have been provided by Philippe Gambette ([GitHub](https://github.com/PhilippeGambette)) and Jonathan Poinhos.
 
 ## Cite this repository
-Please use one of the following publications, preferably the latest.
+
+If you use the data:
+
+```bibtex
+@software{simon_gabay_2022_5865428,
+  author       = {Simon Gabay},
+  title        = {{FreEM-corpora/FreEMnorm: FreEM norm Parallel
+                   corpus}},
+  month        = jan,
+  year         = 2022,
+  publisher    = {Zenodo},
+  version      = {1.0.0},
+  doi          = {10.5281/zenodo.5865428},
+  url          = {https://doi.org/10.5281/zenodo.5865428}
+}
+```
+
+You can also additionnally use one of our latest publications:
 
 ```bibtex
 @inproceedings{gabay:hal-02276150,
