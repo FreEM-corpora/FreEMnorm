@@ -1,4 +1,7 @@
-# PARALLEL17
+# FreEM Norm corpus
+
+[![DOI](https://zenodo.org/badge/448937133.svg)](https://zenodo.org/badge/latestdoi/448937133)
+
 
 **WARNING: This repository is the new repository of [PARALLEL17](https://github.com/e-ditiones/PARALLEL17), which is not maintained anymore**
 
