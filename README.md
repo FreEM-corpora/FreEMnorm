@@ -35,16 +35,19 @@ Additional data and corrections have been provided by Philippe Gambette ([GitHub
 If you use the data:
 
 ```bibtex
-@software{simon_gabay_2022_5865428,
-  author       = {Simon Gabay},
+@software{gabay_simon_2022_6481179,
+  author       = {Gabay, Simon and
+                  Gambette, Philippe},
   title        = {{FreEM-corpora/FreEMnorm: FreEM norm Parallel
-                   corpus}},
+                   (original vs. normalised) corpus for Early Modern
+                   French}},
   month        = jan,
   year         = 2022,
+  note         = {If you use this software, please cite it as below.},
   publisher    = {Zenodo},
-  version      = {1.0.0},
-  doi          = {10.5281/zenodo.5865428},
-  url          = {https://doi.org/10.5281/zenodo.5865428}
+  version      = {1.0.1},
+  doi          = {10.5281/zenodo.6481179},
+  url          = {https://doi.org/10.5281/zenodo.6481179}
 }
 ```
 
@@ -81,6 +84,21 @@ You can also additionnally use one of our latest publications:
   KEYWORDS = {Normalisation ; 17th c French ; Neural Machine Translation (NMT) ; Statistical Machine Translation (SMT) ; Digital humanities ; Humanit{\'e}s num{\'e}riques ; Fran{\c c}ais classique ; Traduction automatique neuronale ; Traduction automatique statistique},
   PDF = {https://hal.archives-ouvertes.fr/hal-02596669/file/main.pdf},
   HAL_ID = {hal-02596669},
+  HAL_VERSION = {v1},
+}
+```
+
+```bibtex
+@inproceedings{gabay:hal-03596653,
+  TITLE = {{Automatic Normalisation of Early Modern French}},
+  AUTHOR = {Bawden, Rachel and Poinhos, Jonathan and Kogkitsidou, Eleni and Gambette, Philippe and Sagot, Beno{\^i}t and Gabay, Simon},
+  URL = {https://hal.inria.fr/hal-03596653},
+  BOOKTITLE = {{Proceedings of the 13th Language Resources and Evaluation Conference}},
+  ADDRESS = {Marseille, France},
+  ORGANIZATION = {{European Language Resources Association}},
+  YEAR = {2022},
+  MONTH = Jun,
+  HAL_ID = {hal-03540226},
   HAL_VERSION = {v1},
 }
 ```
