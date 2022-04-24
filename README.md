@@ -2,8 +2,10 @@
 
 [![DOI](https://zenodo.org/badge/448937133.svg)](https://zenodo.org/badge/latestdoi/448937133)
 
-
-**WARNING: This repository is the new repository of [PARALLEL17](https://github.com/e-ditiones/PARALLEL17), which is not maintained anymore**
+```diff
+- WARNING: This repository is the new repository of [PARALLEL17](https://github.com/e-ditiones/PARALLEL17), which is not maintained anymore
+```
+****
 
 Parallel corpus (diplomatic vs normalised) of 17th c. French texts.
 
@@ -83,7 +85,7 @@ You can also additionnally use one of our latest publications:
 }
 ```
 
-Please keep me posted if you use this data! simon.gabay[at]unige.ch
+Please keep me posted if you use this data!
 
 ## Contact
 simon.gabay[at]unige.ch
