@@ -5,14 +5,13 @@ import argparse
 
 #For colab or other notebook
 parser = argparse.ArgumentParser()
-parser.add_argument("-c", "--colab", help="If you use colab")
+parser.add_argument("-c", "--colab", help="Use this if you use colab")
 args = parser.parse_args()
 
-if flag:
+if args.colab == True:
     folder="/content/FreEMnorm/"
 else:
     folder = os.path.abspath(os.path.dirname(sys.argv[0]))
-
 
 
 #Check if data folder exists
