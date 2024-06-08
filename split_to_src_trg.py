@@ -9,12 +9,11 @@ parser.add_argument("-c", "--colab", action='store_true', required=False, defaul
 args = parser.parse_args()
 
 if args.colab:
-    print("hello")
-    print(args.colab)
     folder="/content/FreEMnorm/"
     print("Your are using colab!")
 else:
     folder = os.path.abspath(os.path.dirname(sys.argv[0]))
+    print("Your are not using colab!")
 
 
 #Check if data folder exists
@@ -23,8 +22,8 @@ if not os.path.exists(data_dir):
     os.makedirs(data_dir)
 
 #Setting variables
-source_folders = ["split/dev", "split/test", "split/train"]
-new_files = ["data/dev", "data/test", "data/train"]
+source_folders = [os.path.join(folder,"split/dev"), os.path.join(folder,"split/test"), os.path.join(folder,"split/train")]
+new_files = [os.path.join(folder,"data/dev"), os.path.join(folder,"data/test"), os.path.join(folder,"data/train")]
 
 # Looping over the source directory
 for source_folder, new_file in zip(source_folders, new_files):
