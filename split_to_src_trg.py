@@ -1,9 +1,19 @@
 import os
 import shutil
 import sys
+import argparse
+
+#For colab or other notebook
+parser = argparse.ArgumentParser()
+parser.add_argument("-c", "--colab", help="If you use colab")
+args = parser.parse_args()
+
+if flag:
+    folder="/content/FreEMnorm/"
+else:
+    folder = os.path.abspath(os.path.dirname(sys.argv[0]))
 
 
-folder = os.path.abspath(os.path.dirname(sys.argv[0]))
 
 #Check if data folder exists
 data_dir = os.path.join(folder,"data")
