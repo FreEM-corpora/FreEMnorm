@@ -9,8 +9,8 @@ parser.add_argument("-c", "--colab", help="Use this if you use colab")
 args = parser.parse_args()
 
 if args.colab == True:
-     print("Your are using colab!")
     folder="/content/FreEMnorm/"
+    print("Your are using colab!")
 else:
     folder = os.path.abspath(os.path.dirname(sys.argv[0]))
 
