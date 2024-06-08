@@ -42,7 +42,7 @@ with open(os.path.join(folder,"TableOfContent.tsv"), newline='', encoding="utf-8
       print("Treating file #" + str(fileNb) + " (" + row["file"] + ") in category " + row["Sub-corpus"])
       # Read the file
       try:
-         with open(os.path.join(os.path.join(folder, "corpus_tsv"), row["file"]), newline='', encoding="utf-8") as treatedFile:
+         with open(os.path.join(os.path.join(folder, "corpus"), row["file"]), newline='', encoding="utf-8") as treatedFile:
             spamreader = csv.reader(treatedFile, delimiter='\t', quotechar='"')
 
             # create the corresponding train/dev/test empty files
