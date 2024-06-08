@@ -5,7 +5,7 @@ import argparse
 
 #For colab or other notebook
 parser = argparse.ArgumentParser()
-parser.add_argument("-c", "--colab", required=False, default='', help="Use this if you use colab")
+parser.add_argument("-c", "--colab", action='store_true', required=False, default='', help="Use this if you use colab")
 args = parser.parse_args()
 
 if args.colab:
