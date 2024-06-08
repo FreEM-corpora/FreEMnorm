@@ -9,6 +9,7 @@ parser.add_argument("-c", "--colab", help="Use this if you use colab")
 args = parser.parse_args()
 
 if args.colab:
+    print(args.colab)
     folder="/content/FreEMnorm/"
     print("Your are using colab!")
 else:
