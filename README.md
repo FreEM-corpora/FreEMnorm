@@ -81,7 +81,7 @@ You can also additionally use one of our latest publications:
 ```
 
 ```bibtex
-@inproceedings{gabay:hal-03596653,
+@inproceedings{gabay:hal-03540226,
   TITLE = {{Automatic Normalisation of Early Modern French}},
   AUTHOR = {Bawden, Rachel and Poinhos, Jonathan and Kogkitsidou, Eleni and Gambette, Philippe and Sagot, Beno{\^i}t and Gabay, Simon},
   URL = {https://inria.hal.science/hal-03540226},
