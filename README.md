@@ -18,7 +18,7 @@ The corpus is available in the [corpus folder](https://github.com/FreEM-corpora/
 
 A detailed list of the content is available [here](https://github.com/FreEM-corpora/FreEMnorm/blob/master/TableOfContent.tsv).
 
-## Transcriptions
+### Corpus transcriptions
 Transcripts are almost diplomatic. Long *ſ* is maintained ( *plaiſir* and not *plaisir*).
 Ligatures which have disappeared ( *ſt*, *st*, *ct*) are not kept, but not those that are maintained in contemporary French (*œ*, *æ*).
 
