@@ -1,0 +1,1 @@
+python3 spellcheck.py ../corpus candidats.csv mots_valides.txt
