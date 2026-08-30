@@ -1,4 +1,4 @@
-# FreEMnorm
+# FreEM Norm
 
 A parallel corpus of diplomatic and normalised French texts
 
