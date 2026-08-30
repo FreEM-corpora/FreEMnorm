@@ -2,7 +2,7 @@
 
 A parallel corpus of diplomatic and normalised French texts
 
-[![DOI](https://zenodo.org/badge/448937133.svg)](https://zenodo.org/badge/latestdoi/448937133)
+[![DOI](https://zenodo.org/badge/5865427.svg)](https://doi.org/10.5281/zenodo.5865427)
 
 ```diff
 - WARNING: This repository is the new repository of [PARALLEL17](https://github.com/e-ditiones/PARALLEL17), which is not maintained anymore
