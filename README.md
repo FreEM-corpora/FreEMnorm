@@ -41,16 +41,13 @@ If you use the data:
 @software{gabay_simon_2022_6481179,
   author       = {Gabay, Simon and
                   Gambette, Philippe},
-  title        = {{FreEM-corpora/FreEMnorm: FreEM norm Parallel
-                   (original vs. normalised) corpus for Early Modern
-                   French}},
-  month        = jan,
-  year         = 2022,
-  note         = {If you use this software, please cite it as below.},
+  title        = {{FreEM-corpora/FreEMnorm: A parallel corpus of diplomatic and normalised French texts}},
+  month        = aug,
+  year         = 2026,
   publisher    = {Zenodo},
-  version      = {1.0.1},
-  doi          = {10.5281/zenodo.6481179},
-  url          = {https://doi.org/10.5281/zenodo.6481179}
+  version      = {2.0.1},
+  doi          = {10.5281/zenodo.5865427},
+  url          = {https://doi.org/10.5281/zenodo.5865427}
 }
 ```
 
@@ -95,7 +92,7 @@ You can also additionally use one of our latest publications:
 @inproceedings{gabay:hal-03596653,
   TITLE = {{Automatic Normalisation of Early Modern French}},
   AUTHOR = {Bawden, Rachel and Poinhos, Jonathan and Kogkitsidou, Eleni and Gambette, Philippe and Sagot, Beno{\^i}t and Gabay, Simon},
-  URL = {https://hal.inria.fr/hal-03596653},
+  URL = {https://inria.hal.science/hal-03540226},
   BOOKTITLE = {{Proceedings of the 13th Language Resources and Evaluation Conference}},
   ADDRESS = {Marseille, France},
   ORGANIZATION = {{European Language Resources Association}},
