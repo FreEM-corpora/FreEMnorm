@@ -38,7 +38,7 @@ Additional data and corrections have been provided by Philippe Gambette ([GitHub
 If you use the data:
 
 ```bibtex
-@software{gabay_simon_2022_6481179,
+@software{gabay_simon_2026_6481179,
   author       = {Gabay, Simon and
                   Gambette, Philippe},
   title        = {{FreEM-corpora/FreEMnorm: A parallel corpus of diplomatic and normalised French texts}},
