@@ -1,14 +1,31 @@
-cff-version: 4.0.0
+cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
+type: software
+title: "FreEM-corpora/FreEMnorm: FreEM norm Parallel (diplomatic vs. normalised) corpus for Early Modern French"
+abstract: >-
+  Parallel corpus (diplomatic vs. normalised) of French texts,
+  used for training and evaluating spelling normalisation models.
 authors:
   - family-names: Gabay
     given-names: Simon
     orcid: https://orcid.org/0000-0001-9094-4475
+    email: simon.gabay@unige.ch
   - family-names: Gambette
     given-names: Philippe
     orcid: https://orcid.org/0000-0001-7062-0262
-title: "FreEM-corpora/FreEMnorm: FreEM norm Parallel (original vs. normalised) corpus for Early Modern French"
-version: "1.0.1"
-doi: "10.5281/zenodo.5865428"
-license: cc-by-4.0
-date-released: 2022-01-17
+version: "2.0.0"
+date-released: "2026-08-30"
+doi: "10.5281/zenodo.5865427"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.5865427"
+    description: "The versioned DOI for this specific release (2.0.0)."
+repository-code: "https://github.com/FreEM-corpora/FreEMnorm"
+url: "https://freem-corpora.github.io"
+license: CC-BY-4.0
+keywords:
+  - French
+  - automatic translation
+  - spelling normalisation
+  - parallel corpus
+  - computational humanities

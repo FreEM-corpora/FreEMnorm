@@ -1,4 +1,6 @@
-# FreEM Norm corpus
+# FreEM Norm
+
+A parallel corpus of diplomatic and normalised French texts
 
 [![DOI](https://zenodo.org/badge/448937133.svg)](https://zenodo.org/badge/latestdoi/448937133)
 
@@ -7,7 +9,7 @@
 ```
 ****
 
-Parallel corpus (diplomatic vs normalised) of 17th c. French texts.
+Parallel corpus (diplomatic vs normalised) of French texts. Originally designed for 17th c. texts specifically, it now addresses texts printed since the 16th c. up to today.
 
 For more information about FreEM corpora, cf. our [website](https://freem-corpora.github.io).
 
@@ -20,9 +22,6 @@ A detailed list of the content is available [here](https://github.com/FreEM-corp
 ## Transcriptions
 Transcripts are almost diplomatic. Long *ſ* is maintained ( *plaiſir* and not *plaisir*).
 Ligatures which have disappeared ( *ſt*, *st*, *ct*) are not kept, but not those that are maintained in contemporary French (*œ*, *æ*).
-
-## Use the normaliser
-\[TO DO\]
 
 ## Contribute
 If you want to contribute, you can do so by cloning the repository and sending us a pull request, or by sending an email at simon.gabay[at]unige.ch.
@@ -51,7 +50,7 @@ If you use the data:
 }
 ```
 
-You can also additionnally use one of our latest publications:
+You can also additionally use one of our latest publications:
 
 ```bibtex
 @inproceedings{gabay:hal-02276150,
