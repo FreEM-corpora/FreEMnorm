@@ -22,6 +22,11 @@ A detailed list of the content is available [here](https://github.com/FreEM-corp
 Transcripts are almost diplomatic. Long *ſ* is maintained ( *plaiſir* and not *plaisir*).
 Ligatures which have disappeared ( *ſt*, *st*, *ct*) are not kept, but not those that are maintained in contemporary French (*œ*, *æ*).
 
+## Split
+
+The train/dev/test split is the one of the v. 1.0.0 for comparative purposes.
+
+
 ## Contribute
 If you want to contribute, you can do so by cloning the repository and sending us a pull request, or by sending an email at simon.gabay[at]unige.ch.
 
