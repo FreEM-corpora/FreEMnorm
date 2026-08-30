@@ -59,14 +59,10 @@ You can also additionally use one of our latest publications:
   AUTHOR = {Gabay, Simon and Riguet, Marine and Barrault, Lo{\"i}c},
   URL = {https://hal.archives-ouvertes.fr/hal-02276150},
   BOOKTITLE = {{DH2019}},
-  ADDRESS = {Utrecht, Netherlands},
+  ADDRESS = {Utrecht, The Netherlands},
   ORGANIZATION = {{ADHO}},
   YEAR = {2019},
   MONTH = Jul,
-  KEYWORDS = {17th Century France ; Parallel corpus building},
-  PDF = {https://hal.archives-ouvertes.fr/hal-02276150/file/DH2019_final.pdf},
-  HAL_ID = {hal-02276150},
-  HAL_VERSION = {v1},
 }
 ```
 
@@ -81,10 +77,6 @@ You can also additionally use one of our latest publications:
   SERIES = {27{\`e}me Conf{\'e}rence sur le Traitement Automatique des Langues Naturelles},
   YEAR = {2020},
   MONTH = Jun,
-  KEYWORDS = {Normalisation ; 17th c French ; Neural Machine Translation (NMT) ; Statistical Machine Translation (SMT) ; Digital humanities ; Humanit{\'e}s num{\'e}riques ; Fran{\c c}ais classique ; Traduction automatique neuronale ; Traduction automatique statistique},
-  PDF = {https://hal.archives-ouvertes.fr/hal-02596669/file/main.pdf},
-  HAL_ID = {hal-02596669},
-  HAL_VERSION = {v1},
 }
 ```
 
@@ -98,8 +90,6 @@ You can also additionally use one of our latest publications:
   ORGANIZATION = {{European Language Resources Association}},
   YEAR = {2022},
   MONTH = Jun,
-  HAL_ID = {hal-03540226},
-  HAL_VERSION = {v1},
 }
 ```
 
