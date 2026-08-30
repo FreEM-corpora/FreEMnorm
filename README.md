@@ -42,7 +42,7 @@ If you use the data:
   author       = {Gabay, Simon and
                   Gambette, Philippe},
   title        = {{FreEM-corpora/FreEMnorm: A parallel corpus of diplomatic and normalised French texts}},
-  month        = aug,
+  month        = Aug,
   year         = 2026,
   publisher    = {Zenodo},
   version      = {2.0.1},
