@@ -28,7 +28,7 @@ The train/dev/test split is the one of the v. 1.0.0 for comparative purposes.
 
 ## Scripts
 
-The spellchecker requires [Hunspell](https://hunspell.github.io) to be installed.
+The [spellchecker](https://github.com/FreEM-corpora/FreEMnorm/blob/master/scripts/spellcheck.py) requires [Hunspell](https://hunspell.github.io) to be installed.
 
 ## Contribute
 If you want to contribute, you can do so by cloning the repository and sending us a pull request, or by sending an email at simon.gabay[at]unige.ch.
